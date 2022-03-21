@@ -85,7 +85,7 @@ function validBraces(braces){
 ```
 ***
 ## Cousers:
-  * HTML and CSS lessons on w3 (completed)
+  * HTML and CSS lessons (completed)
   * JavaScript Guide [learn.javascript.ru](https://learn.javascript.ru) (in progress)
   * RS Schools course "JavaScript/Front-end. Stage 0" (in progress)
 
