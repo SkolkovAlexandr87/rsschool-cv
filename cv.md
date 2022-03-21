@@ -15,14 +15,14 @@
    In training, if there is no access to a computer or there is no opportunity to study on a PC, the smartphone application helps a lot [EasyHTML](https://apps.apple.com/ru/app/easyhtml/id1344902528).
 
    In general, I like the constant development and study of various materials in this direction (front-end).Working in his current profession, unfortunately, there is no possibility of development.
-
+***
 ## Skills:
   * HTML
   * CSS
   * JavaScript
   * Git, GitHub
   * VSCode  
-
+***
 ## Code Example.
 
 #### Valid Braces.
@@ -83,8 +83,13 @@ function validBraces(braces){
 }
 
 ```
-
+***
 ## Cousers:
   * HTML and CSS lessons on w3 (completed)
   * JavaScript Guide [learn.javascript.ru](https://learn.javascript.ru) (in progress)
   * RS Schools course "JavaScript/Front-end. Stage 0" (in progress)
+
+***
+
+## English language.
+  * Entry level - A1
