@@ -1,4 +1,5 @@
 # Skolkov Alexander
+![Photo](photo.jpg)
 ***
 ## Contact information:
   **Phone:** +79108886323\
@@ -82,3 +83,8 @@ function validBraces(braces){
 }
 
 ```
+
+## Cousers:
+  * HTML and CSS lessons on w3 (completed)
+  * JavaScript Guide [learn.javascript.ru](https://learn.javascript.ru) (in progress)
+  * RS Schools course "JavaScript/Front-end. Stage 0" (in progress)
