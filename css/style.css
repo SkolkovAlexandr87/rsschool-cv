@@ -1,0 +1,98 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    width:90%;
+    margin: 0 auto;
+    background-color: rgba(231, 223, 176, 0.904);
+}
+
+div.clear{
+  clear: both;
+}
+header{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    display: block;
+
+}
+div.photo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    border-radius: 50%;
+    padding: 5px;
+    overflow: hidden;
+    margin: 10px;
+    float: right;
+    border: 4px solid rgba(224, 188, 110, 0.952);
+}
+img.my_photo{
+    position: absolute;
+    top: -10px;
+    left: -10px;
+}
+header>div.container>div.info>h1{
+    float: left;
+    margin:10px;
+    margin-bottom: 10px;
+}
+header>div.container>div.info>p{
+    margin:10px;
+}
+div.info{
+    color:rgb(37, 34, 34);
+    margin:10px;
+}
+header>div.container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+}
+main section{
+    width:80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+section h3,
+section ul h3,
+section h4{
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+section>p,
+section ul li{
+    margin: 10px;
+    font-family:'Courier New', Courier, sans-serif;
+    font-weight:600;
+    text-indent: 10px;
+    color:rgba(29, 28, 28, 0.877);
+    line-height: 1.3em;
+    margin-left: 50px;
+}
+section h4{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+span.code,
+div.code{
+ padding: 3px;
+ border-radius: 3px;
+ background-color: rgba(224, 188, 110, 0.952);
+}
+
+div.code{
+    display: inline-block;
+    margin-left: 50px;
+}
+
